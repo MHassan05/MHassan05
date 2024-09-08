@@ -6,7 +6,7 @@
 - 💻 Passionate about C++ programming and software development.
 - 🚀 Currently learning more about data structures, algorithms, and system design.
 - 🌱 Exploring open-source contributions.
-- 📫 How to reach me: mh873030@gmail.com | https://www.linkedin.com/in/muhammad-hassan-86164b31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me: mh873030@gmail.com | https://www.linkedin.com/in/muhammad-hassan2005
 - 🏆 Always open to collaborations on exciting projects!
 
 ### Skills
