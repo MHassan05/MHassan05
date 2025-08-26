@@ -3,9 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhassan05&label=Profile%20views&color=0e75b6&style=flat" alt="mhassan05" /> </p>
 
--  I'm currently learning **AI and ML**
-
--  **Reach me at:** m.hassan.x05@gmail.com
+<div align="left">
+  <ul>
+    <li> I'm currently learning <b>AI and ML</b></li>
+    <li><b>Reach me at:</b> m.hassan.x05@gmail.com</li>
+  </ul>
+  <img src="https://media4.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" 
+       align="right" width="200" height="200" alt="Coding GIF"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
