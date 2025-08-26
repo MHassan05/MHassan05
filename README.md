@@ -80,7 +80,7 @@
   />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhassan05&show_icons=true&locale=en&layout=compact" alt="mhassan05" />
 </picture>
-
+<br/>
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=mhassan05&show_icons=true&locale=en&theme=dark"
@@ -92,6 +92,9 @@
   />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhassan05&show_icons=true&locale=en" alt="mhassan05" />
 </picture>
+
+<br/> 
+<br/>
 
 <picture>
   <source 
