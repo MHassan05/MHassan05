@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhassan05&label=Profile%20views&color=0e75b6&style=flat" alt="mhassan05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MHassan05" alt="MHassan05" /></a> </p>
-
 - 🌱 I’m currently learning **AI and ML**
 
 - 📫 **Reach me at:** m.hassan.x05@gmail.com
@@ -55,5 +53,5 @@
     srcset="https://github-readme-streak-stats.herokuapp.com?user=mhassan05&theme=default"
     media="(prefers-color-scheme: light)" 
   />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mhassan05" alt="mhassan05" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhassan05&show_icons=true&locale=en" alt="" />
 </picture>
