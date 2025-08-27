@@ -8,8 +8,6 @@
     <li> I'm currently learning <b>AI and ML</b></li>
     <li><b>Reach me at:</b> m.hassan.x05@gmail.com</li>
   </ul>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBncmh4YXZkdnlsOHAxeWI3eXRybzd6anJ5bXI1amZ3OXdwdGVkdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" 
-       align="right" width="200" height="200" alt="Coding GIF"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
