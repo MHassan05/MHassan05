@@ -22,15 +22,10 @@ CS Student at FAST-NUCES | ML | DL | Backend
 ---
 
 ## Tech Stack
-**Languages:** Python, Kotlin, Java, SQL
-
-**Machine Learning:** PyTorch, Scikit-learn, Pandas, NumPy, Seaborn
-
-**Backend:** FastAPI, SQLAlchemy, REST APIs, Pytest
-
-**Databases:** PostgreSQL, MySQL, SQL Server, Oracle
-
-**Tools:** Git, GitHub, Linux, JupyterLab, Google Colab, Figma
+- **Languages:** Python, C/C++, SQL
+- **Technologies:** FastAPI, PyTorch, Scikit-learn, SQLAlchemy, Pandas, NumPy, Pytest
+- **Databases:** PostgreSQL, MySQL, SQL Server
+- **Tools:** Git, GitHub, Linux, JupyterLab
 
 ---
 
