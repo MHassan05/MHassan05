@@ -34,8 +34,12 @@ CS Student at FAST-NUCES | ML | DL | Backend
 
 ---
 
-## GitHub Streak
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MHassan05&theme=transparent&hide_border=true" />
 </p>
+
+## Top Languages
+
+![Top Languages](./profile/top-langs.svg)
